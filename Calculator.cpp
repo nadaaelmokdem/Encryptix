@@ -5,7 +5,7 @@ int subtraction(int num1, int num2);
 double multiplication(double num1, double num2); 
 double division(double num1, double num2); 
 int main() {
-    int new_num, op,new_num2;
+    int new_num, op,new_num2; 
     char op2;
     do {
         cout << "1-Addition\n2-Substraction\n3-Multiplication\n4-Division";
